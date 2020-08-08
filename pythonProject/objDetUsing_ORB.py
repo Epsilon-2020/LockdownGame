@@ -1,6 +1,7 @@
 import cv2
-#import numpy as np
+import numpy as np
 
+#test
 
 def ORB_detector(new_image, image_template):
     # Function that compares input image to template
